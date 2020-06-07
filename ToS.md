@@ -14,7 +14,7 @@ Understanding these terms is important because, by using our services, you’re 
 Besides these terms, we also publish a Privacy Policy. Although it’s not part of these terms, we encourage you to read it to better understand how you can update, manage, export, and delete your information.
 
 # Service provider
-WildCards services are provided by the WildCards dev team which can be contacted for further inquiry at TipZmanagement@gmail.com
+WildCards services are provided by the WildCards dev team which can be contacted for further inquiry at WildCardsmanagement@gmail.com
 
 # Age requirements
 To use our service, you must be 18 or older. By signing up and agreeing to these Terms of Service, you are indicating to the WildCards dev team and to our software that you 18 years or older. 
